@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules/
+.yarn/install-state.gz
+
+# Cache and log files
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Build output
+/dist/

@@ -4,10 +4,12 @@ A minimal starter template for Vite, React, TypeScript, and Tailwind.
 
 [**Use this template**](https://github.com/new?template_name=react-lean-starter&template_owner=huntie)
 
+> [!Note]
+> This repo is mostly for personal reference and as a common starting point for my own side projects — **expect no/infrequent updates!**
+
 ## Motivation/goals
 
-A minimal starting point for UI/web app prototypes.
-
+- A minimal starting point for UI/web app prototypes.
 - Does not yet commit to a particular React framework.
 - Provides a strong language tooling baseline.
 - As few dependencies as possible.
